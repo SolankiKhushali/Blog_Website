@@ -47,7 +47,7 @@ window.addEventListener("resize", function () {
 
 function files(index) {
   var data = `
-      ./images_folder./male0001.png
+      male0001.png
       ./images_folder./male0002.png
       ./images_folder./male0003.png
       ./images_folder./male0004.png
